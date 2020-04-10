@@ -40,10 +40,10 @@ def callback():
 
 
 #浏览器位置
-#options=Options()
-#options.binary_location = r""
-#driver=webdriver.Chrome(options=options)
-driver=webdriver.Chrome()
+options=Options()
+options.binary_location = r"./chrome/chrome.exe"
+driver=webdriver.Chrome(executable_path="./chrome/chromedriver.exe",options=options)
+
 browser =driver
 browser.get("https://pay.qq.com/index.shtml")
 root = tk.Tk()

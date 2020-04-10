@@ -72,10 +72,10 @@ def callback():
 
 
 #浏览器位置
-#options=Options()
-#options.binary_location = r"浏览器位置"
-#driver=webdriver.Chrome(options=options)
-driver=webdriver.Chrome()
+options=Options()
+options.binary_location = r"./chrome/chrome.exe"
+driver=webdriver.Chrome(executable_path="./chrome/chromedriver.exe",options=options)
+
 browser =driver
 browser.get("https://qun.qq.com/member.html")
 root = tk.Tk()

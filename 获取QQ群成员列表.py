@@ -27,7 +27,7 @@ def callback():
     a=driver.find_elements_by_class_name('icon-def-gicon')
     Num= len(a)
     time_start=time.time()
-    for i in range(37,Num):
+    for i in range(0,Num):
         
         #点击进入具体群
         a=driver.find_elements_by_class_name('icon-def-gicon')

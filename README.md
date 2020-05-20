@@ -1,5 +1,7 @@
 # getQQmembers
 
+使用说明：https://cjh0613.github.io/blog/20200520getQQmembers.html
+
 [![GitHub stars](https://img.shields.io/github/stars/cjh0613/getQQmembers.svg?style=social)](https://github.com/cjh0613/getQQmembers/stargazers)     [![GitHub forks](https://img.shields.io/github/forks/cjh0613/getQQmembers.svg?style=social)](https://github.com/cjh0613/getQQmembers/network/members)  `请点击页面顶部靠右star与fork`
 
 

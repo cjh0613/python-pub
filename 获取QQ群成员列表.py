@@ -71,10 +71,8 @@ def callback():
         time.sleep(1)
 
 
-#浏览器位置
-options=Options()
-options.binary_location = r"./chrome/chrome.exe"
-driver=webdriver.Chrome(executable_path="./chrome/chromedriver.exe",options=options)
+
+driver=webdriver.Chrome()
 
 browser =driver
 browser.get("https://qun.qq.com/member.html")

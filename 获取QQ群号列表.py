@@ -68,7 +68,7 @@ browser =driver
 browser.get("https://qun.qq.com/member.html")
 root = tk.Tk()
 # 设置窗口标题
-root.title('从QQ群管理获取群成员列表——峡州仙士制作')
+root.title('从QQ群管理获取群号列表——峡州仙士制作')
 # 设置窗口大小
 root.geometry('400x200')
 # 进入消息循环（检测到事件，就刷新组件）

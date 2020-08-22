@@ -8,6 +8,6 @@
 ### getQQmembers
 python获取所有qq好友、全部群所有成员部分信息，并保存列表至电子表格
 
-使用说明：https://cjh0613.github.io/blog/20200520getQQmembers.html
+使用说明：https://cjh0613.com/20200520getQQmembers.html
 
 成品：http://d0.ananas.chaoxing.com/download/7694e31d48eedb7b57e5aeefadf67134?fn=qq%E5%A4%87%E4%BB%BD
